@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nikhilmali1532001@gmail.com**
 
-- 📄 Know about my experiences [I had](I had)
+- 📄 Know about my experiences -> I had completed my intership as a web developer intern at A.N.D. Interns.
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
