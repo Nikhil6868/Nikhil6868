@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil6868&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil6868" /> </p>
 
-- 🌱 I’m currently learning **Java, DSA in Java**
+- 🌱 I’m currently learning **Java, DSA in Java , ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhil6868](https://github.com/Nikhil6868)
 
-- 💬 Ask me about **Java , Web Development**
+- 💬 Ask me about **Java , Web Development , ASP.NET**
 
 - 📫 How to reach me **nikhilmali1532001@gmail.com**
 
